@@ -20,16 +20,11 @@ void setup(){
   pinMode(pinoLED6, OUTPUT);
   pinMode(pinoLED7, OUTPUT);
   
-  Serial.begin(9600);
-  
 }
 
 void loop(){
   
   int valorLuz = analogRead(pinoLDR);
-  
-  Serial.print("Valor da luz: ");
-  Serial.print(valorLuz);
   
   if (valorLuz < limiteLuz){
     
