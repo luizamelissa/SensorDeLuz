@@ -15,3 +15,5 @@ O sistema mede a intensidade da luz ambiente através de um LDR (Resistor Depend
 * 1 x LDR (Sensor de Luminosidade)
 * 7 x LEDs
 * Resistores
+
+Link do projeto: https://www.tinkercad.com/things/8tptqzvUu3i-mighty-allis
